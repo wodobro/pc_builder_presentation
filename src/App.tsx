@@ -220,7 +220,7 @@ export function App() {
         {/* Global Page Number - Updates based on active section */}
         <PageNumber current={currentPage} total={totalPages} />
         <DateLabel label="January 28, 2026" />
-        <SectionLabel label="internal" />
+        <SectionLabel label="public" />
 
         {/* Cursor marker: toggle with `m` or the on-screen button */}
         <CursorMarker toggleKey="m" buttonLabel="Marker (M)" />

@@ -76,7 +76,7 @@ export function NextEvent() {
               ${showDetails ? 'opacity-100 translate-y-0' : 'opacity-0 translate-y-4'}
             `}
           >
-            February 2026
+            xxx 2026
           </h2>
         </div>
 
@@ -92,15 +92,15 @@ export function NextEvent() {
               <div className="space-y-4">
                 <div className="flex justify-center items-center gap-2 text-red-3">
                   <Calendar className="w-6 h-6" />
-                  <span className="font-semibold text-sm uppercase tracking-wide">Next Dev@CGI Event</span>
+                  <span className="font-semibold text-sm uppercase tracking-wide">Next Event</span>
                 </div>
                 
                 <h3 className="font-black text-gray-1 text-4xl md:text-5xl">
-                  Girl Code 2026
+                  xxx 2026
                 </h3>
                 
                 <p className="text-gray-3 text-lg">
-                  Organized by <span className="font-semibold text-gray-1">Sara Larsson</span> and <span className="font-semibold text-gray-1">Woman@CGI</span>
+                  Organized by <span className="font-semibold text-gray-1">redacted</span> and <span className="font-semibold text-gray-1">Redacted</span>
                 </p>
               </div>
             </CardContent>

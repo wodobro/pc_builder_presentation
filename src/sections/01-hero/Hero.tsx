@@ -1,5 +1,4 @@
 import { SectionLabel } from "@/components/shared/SectionLabel";
-import devCgiLogo from "@/assets/images/devcgi.png";
 import { Button } from "@/components/ui/button";
 import { ArrowRight } from "lucide-react";
 
@@ -15,11 +14,6 @@ export function Hero({ scrollTo }: HeroProps) {
     >
       
       <div className="space-y-8 text-center">
-        <img 
-          src={devCgiLogo} 
-          alt="Dev@CGI" 
-          className="mx-auto mb-12 w-auto h-32"
-        />
         
         <div className="space-y-4">
           <h1 className="overflow-visible font-black text-gray-1 text-5xl md:text-8xl leading-tight tracking-tighter">

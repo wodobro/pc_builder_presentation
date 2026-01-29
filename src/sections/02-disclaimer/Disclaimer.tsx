@@ -22,7 +22,7 @@ export function Disclaimer() {
             </CardTitle>
           </CardHeader>
           <CardContent className="text-gray-3">
-            <p>This session is being recorded.</p>
+            <p>This session was recorded January 28, 2026.</p>
           </CardContent>
         </Card>
 
@@ -47,7 +47,7 @@ export function Disclaimer() {
             </CardTitle>
           </CardHeader>
           <CardContent className="">
-            <span className="bg-[image:var(--grad-a)] bg-clip-text p-1 overflow-visible text-transparent text-xl">Stefan van Oss</span>
+            <span className="bg-[image:var(--grad-a)] bg-clip-text p-1 overflow-visible text-transparent text-xl">Redacted</span>
           </CardContent>
         </Card>
       </div>
